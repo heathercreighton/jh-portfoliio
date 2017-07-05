@@ -16,3 +16,7 @@
  *= require font_awesome
  */
 
+.navbar-brand { 
+    width: 50px;
+    height: 50px;
+}
